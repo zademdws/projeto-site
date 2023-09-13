@@ -31,6 +31,6 @@ Me habituei e consegui me situar muito bem com a construção web.
 
 ## 🧥 Como contribuir?
 
-1. Primeiro, [bifurque este repositório](). Isso adicionará a versão atual do repositório à sua conta.
+1. Primeiro, [bifurque este repositório](https://github.com/Nwerit/projeto-site). Isso adicionará a versão atual do repositório à sua conta.
 
 2. Agora você pode baixá-lo para sua máquina e alterar o que quiser (recomendo usar o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para testes).
