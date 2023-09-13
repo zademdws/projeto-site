@@ -3,6 +3,8 @@
 <p>Projeto portfólio próprio!</p> 
 </h1>
 
+### [Veja o Site](https://nwerit.github.io/projeto-site/)
+
 ## ▶ Sobre
 
 Um projeto feito com fins de pesquisa e estudo aprofundado sobre estruturas de sites. Foi feito em um período de uma semana, utilizando o conhecimento que adiquiri em cursos e na graduação.
