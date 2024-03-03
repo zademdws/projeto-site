@@ -3,7 +3,7 @@
 <p>Projeto portfólio próprio!</p> 
 </h1>
 
-### [Veja o Site](https://nwerit.github.io/projeto-site/)
+### [Veja o Site](https://zademdws.github.io/projeto-site/)
 
 ## ▶ Sobre
 
